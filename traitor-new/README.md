@@ -5,3 +5,4 @@ Change 4 in branch1
 Change 5 in branch1
 Change 6 in branch1
 Change 7 in branch1
+Change 8 in branch1
